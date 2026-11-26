@@ -31,30 +31,43 @@
 - 👨‍🏫 Ex-Teaching Assistant and Python/Raspberry Pi Course Creator.
 
 ---
-
 ### 🛠️ Tech Stack
 
 <div align="center">
   
-  **Software & Full-Stack** <br>
-  <img src="https://skillicons.dev/icons?i=py,ts,angular,dotnet,react,fastapi,postgres,redis" />
+  <b>Software & Full-Stack</b> <br>
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /></a>
+  <a href="https://angular.io/" target="_blank" title="Angular"><img src="https://skillicons.dev/icons?i=angular" height="48" alt="Angular" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET / C#"><img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" /></a>
+  <a href="https://react.dev/" target="_blank" title="React / React Native"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
+  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" /></a>
 
-  **AI & Automation** <br>
-  <img src="https://skillicons.dev/icons?i=regex,bash,linux" /> <!-- Reemplazo visual para LLMs -->
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/pydoll-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <br><br>
 
-  **DevOps & Tools** <br>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,swagger" />
+  <b>AI & Automation</b> <br>
+  <a href="https://ollama.com/" target="_blank" title="Ollama (Local LLMs)"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" /></a>
+  <a href="https://n8n.io/" target="_blank" title="n8n Workflow Automation"><img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" height="48" alt="n8n" /></a>
+  <a href="https://github.com/pydoll/pydoll" target="_blank" title="pydoll (Python Browser Automation)"><img src="https://img.shields.io/badge/pydoll-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" alt="pydoll" /></a>
 
-  **Hardware / Edge AI (Bonus)** <br>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" />
-  
+  <br><br>
+
+  <b>DevOps & Tools</b> <br>
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a>
+  <a href="https://swagger.io/" target="_blank" title="OpenAPI / Swagger"><img src="https://skillicons.dev/icons?i=swagger" height="48" alt="Swagger" /></a>
+
+  <br><br>
+
+  <b>Hardware / Edge AI (Bonus)</b> <br>
+  <a href="https://www.arduino.cc/" target="_blank" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" height="48" alt="Raspberry Pi" /></a>
+  <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
+
 </div>
-
-<br>
-
 ---
 
 ### 🔥 Featured Projects
