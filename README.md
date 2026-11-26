@@ -27,22 +27,36 @@
 <div align="center">
   
   <b>Software & Full-Stack</b> <br>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /></a><a href="https://angular.io/" target="_blank" rel="noopener noreferrer" title="Angular"><img src="https://skillicons.dev/icons?i=angular" height="48" alt="Angular" /></a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer" title=".NET / C#"><img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" /></a><a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React / React Native"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a><a href="https://redis.io/" target="_blank" rel="noopener noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer" title="Angular"><img src="https://skillicons.dev/icons?i=angular" height="48" alt="Angular" /></a>&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer" title=".NET / C#"><img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React / React Native"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank" rel="noopener noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" /></a>
 
   <br><br>
 
   <b>AI & Automation</b> <br>
-  <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer" title="Ollama (Local LLMs)"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" /></a><a href="https://n8n.io/" target="_blank" rel="noopener noreferrer" title="n8n Workflow Automation"><img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" height="48" alt="n8n" /></a><a href="https://github.com/pydoll/pydoll" target="_blank" rel="noopener noreferrer" title="pydoll (Python Browser Automation)"><img src="https://img.shields.io/badge/pydoll-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" alt="pydoll" /></a>
+  <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer" title="Ollama (Local LLMs)"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" /></a>&nbsp;&nbsp;
+  <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer" title="n8n Workflow Automation"><img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" height="48" alt="n8n" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/pydoll/pydoll" target="_blank" rel="noopener noreferrer" title="pydoll (Python Browser Automation)"><img src="https://img.shields.io/badge/pydoll-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" alt="pydoll" /></a>
 
   <br><br>
 
   <b>DevOps & Tools</b> <br>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a><a href="https://swagger.io/" target="_blank" rel="noopener noreferrer" title="OpenAPI / Swagger"><img src="https://skillicons.dev/icons?i=swagger" height="48" alt="Swagger" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a>&nbsp;&nbsp;
+  <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer" title="OpenAPI / Swagger"><img src="https://skillicons.dev/icons?i=swagger" height="48" alt="Swagger" /></a>
 
   <br><br>
 
   <b>Hardware / Edge AI (Bonus)</b> <br>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" height="48" alt="Raspberry Pi" /></a><a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" /></a>&nbsp;&nbsp;
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" height="48" alt="Raspberry Pi" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
 
 </div>
 
