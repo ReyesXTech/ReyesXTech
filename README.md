@@ -1,81 +1,119 @@
-<h1 align="center">Hi 👋, I'm Rafael Oliva Reyes</h1>
-<h3 align="center">Automation Engineer & Full‑Stack Developer crafting AI‑powered end‑to‑end solutions</h3>
+<div align="center">
+  
+  <!-- HEADER ANIMADO -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafael+Oliva+Reyes;Product-Minded+Full-Stack+%26+AI+Engineer;ICPC+University+Champion" alt="Typing SVG" />
+  
+  <p><b>I own solutions end-to-end, from customer problem to production.</b></p>
 
-<p align="center">
-  <a href="mailto:rafa.ale.reyes.trabajo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rafael-oliva-reyes-automation/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/ReyesXTech"><img src="https://img.shields.io/github/followers/ReyesXTech?label=Follow&style=social"></a>
-</p>
+  <!-- REDES Y CONTACTO -->
+  <a href="https://www.linkedin.com/in/rafa-automation/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafa.ale.reyes.trabajo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ReyesXTech">
+    <img src="https://img.shields.io/github/followers/ReyesXTech?label=Follow&style=for-the-badge&color=22272E" alt="GitHub Followers"/>
+  </a>
+
+  <br><br>
+  📍 <b>Lusail, Qatar</b>
+</div>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Final‑year **Automation Engineering** student at CUJAE (GPA 4.5/5.0)
-- 🏆 **University ICPC Champion** – strong algorithmic problem‑solving
-- 🤖 I build **end‑to‑end systems** that blend full‑stack web, conversational AI, and industrial automation
-- 💡 I thrive on turning a blank canvas into a deployed, containerized product – from client specs to production
-- 🌱 Currently deepening my expertise in **Angular, .NET, Docker, and LLM‑driven agents**
-- 🌍 Cuban citizen, open to international opportunities and relocation
+
+- 🚀 **Product-minded Engineer** who thrives on turning ambiguous requirements into deployed, containerized products.
+- 🎓 BSc in Automation Engineering at CUJAE (GPA 4.5/5.0) | 🏆 **ICPC University Champion**.
+- 📈 Proven impact: Increased a client's sales by **70%**, saved **96%** of manual ad-posting time, and cut LLM token usage by **>45%**.
+- 💡 I build end-to-end systems blending **Full-Stack Web**, **Local LLMs**, and **Workflow Automation**.
+- 👨‍🏫 Ex-Teaching Assistant and Python/Raspberry Pi Course Creator.
 
 ---
 
 ### 🛠️ Tech Stack
-**Full‑Stack & Web**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
 
-**AI & Edge Computing**  
-![LLM](https://img.shields.io/badge/Local%20LLMs-Ollama%20%7C%20TinyLLM-4B0082?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Dynamic%20Optimization-9cf?style=flat)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![BirdNET](https://img.shields.io/badge/BirdNET-Bioacoustic%20AI-brightgreen?style=flat)
+<div align="center">
+  
+  **Software & Full-Stack** <br>
+  <img src="https://skillicons.dev/icons?i=py,ts,angular,dotnet,react,fastapi,postgres,redis" />
 
-**DevOps & Automation**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF6D00?style=flat&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  **AI & Automation** <br>
+  <img src="https://skillicons.dev/icons?i=regex,bash,linux" /> <!-- Reemplazo visual para LLMs -->
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/pydoll-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-**Embedded & Control**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA%20Portal-PLC%2FSCADA-lightgrey?style=flat)
+  **DevOps & Tools** <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,swagger" />
+
+  **Hardware / Edge AI (Bonus)** <br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" />
+  
+</div>
+
+<br>
 
 ---
 
 ### 🔥 Featured Projects
 
-#### 🍽️ Conversational AI Ordering System (End-to-End)
-- Built a **WhatsApp-based ordering agent** using a local LLM (TinyLLM) with function calling
-- Achieved **>45% token reduction** via dynamic prompt engineering while maintaining autonomous multi-turn conversations
-- Developed a **full‑stack dashboard** (Angular + .NET + PostgreSQL) for real‑time order management
-- Containerized the entire stack (6 services) with **Docker Compose** for one‑command deployment
-- *Role: sole AI & full‑stack engineer, product spec owner, client liaison*
-
-#### 🐦 Edge AI Bioacoustic Monitoring (BirdNET)
-- Deployed a **Raspberry Pi 4** field node running BirdNET for continuous bird sound classification
-- Configured remote SSH, external mic, and portable battery for unattended outdoor operation
-- Part of an international collaboration with the University of Seville
-
-#### 🏭 Industrial Control Systems (Academic)
-- Modeled a **freeze‑drying plant** in TIA Portal with PLC logic + SCADA visualization
-- Designed and built **prototype control systems**: automated tank (custom digital-analog circuit), bioreactor, server‑rack safety, temperature chamber – using Arduino/ESP32 with PID loops
-
-> 🔗 *Explore all repos:* [github.com/ReyesXTech](https://github.com/ReyesXTech)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Conversational AI Ordering</h3>
+      <ul>
+        <li>Engineered a fully autonomous <b>WhatsApp AI chatbot</b> for a restaurant using a locally hosted LLM, dynamic prompting, and function calling.</li>
+        <li>Achieved <b>>45% token reduction</b> and 100% autonomous multi-turn conversations.</li>
+        <li>Built full-stack dashboard (Angular, .NET, PostgreSQL) and orchestrated 6 microservices with <b>Docker Compose</b>.</li>
+      </ul>
+      <i>Role: Sole developer, product spec owner, client liaison.</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Automation Tools</h3>
+      <ul>
+        <li><b>Revolico Ad Manager:</b> Bot that auto-posts/repositions ads, increasing client's sales by <b>70%</b>.</li>
+        <li><b>Facebook Ad Uploader:</b> FastAPI web app to auto-publish ads, saving <b>96%</b> of manual posting time.</li>
+        <li>Demonstrates ability to identify pain points and ship impactful automation tools using <b>pydoll</b> & <b>FastAPI</b>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Bluetooth ECG Mobile App</h3>
+      <ul>
+        <li>Developed a React Native app connecting via Bluetooth to an electrocardiograph.</li>
+        <li>Displays readings and manages patient data, designed to expand healthcare accessibility in rural areas.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐦 Edge AI Bioacoustic Monitoring</h3>
+      <ul>
+        <li>Deployed a <b>Raspberry Pi 4</b> edge node running the BirdNET analysis framework.</li>
+        <li>Configured remote SSH, external mic, and power bank for continuous field operation (Univ. of Seville collaboration).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyesXTech&show_icons=true&theme=radical" alt="Rafael's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesXTech&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyesXTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesXTech&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesXTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-oliva-reyes-automation/)
-- 📧 rafa.ale.reyes.trabajo@gmail.com
-- 🌐 Havana, Cuba · Open to relocation & remote work
+<div align="center">
+  <i>Let's build something amazing together.</i> <br>
+  <a href="mailto:rafa.ale.reyes.trabajo@gmail.com"><b>rafa.ale.reyes.trabajo@gmail.com</b></a>
+</div>
