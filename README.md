@@ -39,9 +39,9 @@
   <br><br>
 
   <b>AI & Automation</b> <br>
-  <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer" title="Ollama (Local LLMs)"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" /></a>&nbsp;&nbsp;
-  <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer" title="n8n Workflow Automation"><img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" height="48" alt="n8n" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/pydoll/pydoll" target="_blank" rel="noopener noreferrer" title="pydoll (Python Browser Automation)"><img src="https://img.shields.io/badge/pydoll-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" alt="pydoll" /></a>
+  <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer" title="Ollama (Local LLMs)"><img src="https://cdn.simpleicons.org/ollama/white" height="48" alt="Ollama" /></a>&nbsp;&nbsp;
+  <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer" title="n8n Workflow Automation"><img src="https://cdn.simpleicons.org/n8n/FF6D00" height="48" alt="n8n" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/pydoll/pydoll" target="_blank" rel="noopener noreferrer" title="pydoll (Python Browser Automation)"><img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="pydoll" /></a>
 
   <br><br>
 
