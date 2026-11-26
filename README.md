@@ -53,7 +53,7 @@
 
   <br><br>
 
-  <b>Hardware / Edge AI (Bonus)</b> <br>
+  <b>Hardware / Edge AI </b> <br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" /></a>&nbsp;&nbsp;
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" height="48" alt="Raspberry Pi" /></a>&nbsp;&nbsp;
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
