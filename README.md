@@ -49,7 +49,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>&nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a>&nbsp;&nbsp;
-  <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer" title="Swagger / OpenAPI"><img src="https://img.shields.io/badge/S-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="48" alt="Swagger" /></a>
+  <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer" title="Swagger / OpenAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" alt="Swagger" /></a>
 
   <br><br>
 
